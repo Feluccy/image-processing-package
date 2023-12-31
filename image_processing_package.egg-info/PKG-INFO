@@ -1,9 +1,22 @@
+Metadata-Version: 2.1
+Name: image-processing-package
+Version: 0.0.3
+Summary: Pacote criado durante o bootcamp Python Developer da DIO
+Home-page: https://github.com/Feluccy/image-processing-package.git
+Author: Fernanda Lucio
+Author-email: feluccy@hotmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-image>=0.16.1
+
 # package_name
 
 Description. 
 The package package_name is used to:Processamento (Processing): - Match de histograma - Similaridade de estruturas - Redimensionamento de imagens Utilidades (Utils): - Leitura de imagem - Salvar imagem - Apresentar(plot) imagem - Apresentar(plot) histogramas - Apresentar(plot) resultados
 
-Instalação
+InstalaÃ§Ã£o
 	- 
 	-
 
